@@ -1,19 +1,1 @@
-Simple Calculator: Create a basic calculator that can perform arithmetic operations like addition, subtraction, multiplication, and division. You can expand it with more functionalities like handling complex operations or adding a graphical interface.
 
-Number Guessing Game: Develop a game where the computer randomly selects a number and the user has to guess it within a certain number of attempts. Add hints and scoring for more complexity.
-
-Hangman Game: Implement the classic hangman game where the player guesses letters in a hidden word. You can use a pre-defined list of words and gradually increase the difficulty.
-
-Todo List: Build a command-line-based to-do list application where users can add, delete, and view tasks. You can use text files to store the tasks initially.
-
-Dice Rolling Simulator: Create a program that simulates rolling dice. It should generate random numbers as if the user is rolling dice and display the results.
-
-Simple Alarm Clock: Develop a basic alarm clock application that allows users to set alarms at specific times. Use libraries like datetime to handle time-related operations.
-
-Basic Website Scraper: Write a program that extracts information from a website. Start with something simple like fetching headlines from a news site using libraries like BeautifulSoup.
-
-Temperature Converter: Build a program that converts temperatures between Celsius, Fahrenheit, and Kelvin. Allow users to input a temperature in one unit and convert it to the other units.
-
-Word Counter: Create a program that counts the number of words, characters, and sentences in a given text input. It can also display the most frequent words used.
-
-Simple Contact Book: Develop a command-line-based contact book application that allows users to add contacts, search for contacts, and display a list of saved contacts
